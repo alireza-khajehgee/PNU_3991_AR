@@ -14,7 +14,7 @@
 
 ## دروس ارشد
 
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://githuhttps://github.com/alireza-khajehgee/PNU_3991_AR/tree/main/sop/AdvancedSoftwareEngineering)
+[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/alireza-khajehgee/PNU_3991_AR/blob/main/sop/AdvancedSoftwareEngineering/README.md)
 --------------
 ## روز و ساعت ارائه دروس
 
